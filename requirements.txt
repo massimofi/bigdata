@@ -3,9 +3,7 @@ pandas
 numpy
 yfinance
 requests
-edgar-api
+edgartools
 openpyxl
 sqlalchemy
-psycopg2-binary
 psycopg2
-edgar
